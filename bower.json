@@ -1,0 +1,21 @@
+{
+  "name": "geotipz",
+  "homepage": "https://github.com/rairoberto/geotipz",
+  "authors": [
+    "rairoberto <rai_roberto@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
